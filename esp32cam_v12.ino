@@ -15,10 +15,10 @@
 #include "SD_MMC.h"
 #include <time.h>
 
-#define WIFI_SSID       "TECNO CAMON 20 Pro"
-#define WIFI_PASS       "qhb234jab"
-#define SUPABASE_URL    "https://rsdmlfokksixotaukxqa.supabase.co"
-#define SUPABASE_KEY    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJzZG1sZm9ra3NpeG90YXVreHFhIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzI1MjYzNDYsImV4cCI6MjA4ODEwMjM0Nn0.HQ7bEFWCNkombqUc8eC1jPYqrCgBCmpnmyMY06U2aGg"
+#define WIFI_SSID       ""
+#define WIFI_PASS       ""
+#define SUPABASE_URL    ""
+#define SUPABASE_KEY    ""
 #define DEVICE_SERIAL   "ESP32CAM_001"
 
 #define PWDN_GPIO_NUM   32
